@@ -25,9 +25,9 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@ctx-core/array": "^15.4.24",
+		"@ctx-core/array": "^15.4.25",
 		"@ctx-core/function": "^10.5.31",
-		"@ctx-core/html": "^6.1.16",
+		"@ctx-core/html": "^6.1.17",
 		"@ctx-core/logger": "^3.1.10"
 	},
 	"gitHead": "ecded533c5d9946e2d9dafa39dbc95ce3e38ad93"
