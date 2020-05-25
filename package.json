@@ -2,7 +2,6 @@
 	"name": "@ctx-core/color-bar",
 	"version": "9.1.79",
 	"description": "ctx-core color-bar",
-	"type": "module",
 	"main": "store.js",
 	"module": "store.js",
 	"scripts": {
