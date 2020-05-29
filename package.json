@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "9.1.80",
+	"version": "9.1.81",
 	"description": "ctx-core color-bar",
 	"main": "store.js",
 	"module": "store.js",
@@ -27,7 +27,7 @@
 	"devDependencies": {
 		"@ctx-core/array": "^15.5.21",
 		"@ctx-core/function": "^13.0.6",
-		"@ctx-core/html": "^6.1.80",
+		"@ctx-core/html": "^6.1.81",
 		"@ctx-core/logger": "^3.1.17"
 	},
 	"gitHead": "92f24480b8f04d00ac4b2f6e937698a57cd01557"
