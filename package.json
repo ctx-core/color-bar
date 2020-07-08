@@ -2,8 +2,9 @@
 	"name": "@ctx-core/color-bar",
 	"version": "9.1.90",
 	"description": "ctx-core color-bar",
-	"main": "store.js",
-	"module": "store.js",
+	"main": "index.js",
+	"module": "index.js",
+	"types": "index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
