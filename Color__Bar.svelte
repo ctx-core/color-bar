@@ -1,7 +1,7 @@
 <script>
 import { createEventDispatcher } from 'svelte'
 import { andand } from '@ctx-core/function'
-import { _present__a1 } from '@ctx-core/array'
+import { _a1_present } from '@ctx-core/array'
 import { _style } from '@ctx-core/html'
 import Fit from '@ctx-core/dom/Fit.svelte'
 import { log, debug } from '@ctx-core/logger'
@@ -48,7 +48,7 @@ function __click(event, idx) {
 	</ul>
 	<ul
 		class="labels"
-		class:present="{_present__a1(a1__label)}"
+		class:present="{_a1_present(a1__label)}"
 	>
 		{#each a1__title||[] as title,idx}
 			<li
