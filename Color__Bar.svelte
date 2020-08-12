@@ -4,8 +4,6 @@ import { andand } from '@ctx-core/function'
 import { _a1_present } from '@ctx-core/array'
 import { _style } from '@ctx-core/html'
 import Fit from '@ctx-core/dom/Fit.svelte'
-import { log, debug } from '@ctx-core/logger'
-const logPrefix = '@ctx-core/color-bar/Color__Bar.svelte'
 const dispatch = createEventDispatcher()
 export let a1__label
 export let a1__representation
