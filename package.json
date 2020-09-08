@@ -26,8 +26,8 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@ctx-core/array": "^16.0.15",
-		"@ctx-core/function": "^13.2.4",
+		"@ctx-core/array": "^17.0.0",
+		"@ctx-core/function": "^14.0.0",
 		"@ctx-core/html": "^6.1.117"
 	},
 	"gitHead": "83118a0a59679cf2fa90880aedd8b04a7fe52205"
