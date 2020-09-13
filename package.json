@@ -2,33 +2,33 @@
 	"name": "@ctx-core/color-bar",
 	"version": "9.1.124",
 	"description": "ctx-core color-bar",
+	"keywords": [
+		"ctx-core",
+		"color-bar"
+	],
+	"homepage": "https://github.com/ctx-core/color-bar#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/color-bar/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/color-bar.git"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
 	"scripts": {
 		"exec": "$@"
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/color-bar.git"
+	"devDependencies": {
+		"@ctx-core/array": "workspace:*",
+		"@ctx-core/function": "workspace:*",
+		"@ctx-core/html": "workspace:*"
 	},
-	"keywords": [
-		"ctx-core",
-		"color-bar"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/color-bar/issues"
-	},
-	"homepage": "https://github.com/ctx-core/color-bar#readme",
 	"publishConfig": {
 		"access": "public"
-	},
-	"devDependencies": {
-		"@ctx-core/array": "^17.0.4",
-		"@ctx-core/function": "^14.0.3",
-		"@ctx-core/html": "^6.1.122"
 	},
 	"gitHead": "2b32e03c72a57104e2a8cdee918a0604ba8ef62d"
 }
