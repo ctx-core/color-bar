@@ -22,7 +22,7 @@
   "scripts": {
     "exec": "$@"
   },
-  "devDependencies": {
+  "dependencies": {
     "@ctx-core/array": "workspace:*",
     "@ctx-core/function": "workspace:*",
     "@ctx-core/html": "workspace:*"
