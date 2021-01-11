@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "9.1.191",
+	"version": "9.1.192",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -24,7 +24,7 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^19.2.0",
+		"@ctx-core/array": "workspace:^19.2.1",
 		"@ctx-core/function": "workspace:^16.9.0",
 		"@ctx-core/html": "workspace:^7.1.28"
 	},
