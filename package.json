@@ -24,9 +24,9 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^20.2.17",
+		"@ctx-core/array": "workspace:^20.2.18",
 		"@ctx-core/function": "workspace:^17.4.8",
-		"@ctx-core/html": "workspace:^8.0.32"
+		"@ctx-core/html": "workspace:^8.0.33"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"
