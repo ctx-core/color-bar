@@ -1,5 +1,18 @@
 # @ctx-core/color-bar
 
+## 10.1.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.4.0
+  - @ctx-core/function@17.10.0
+  - @ctx-core/html@8.2.0
+
 ## 10.0.52
 
 ### Patch Changes
