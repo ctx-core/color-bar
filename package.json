@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "10.1.1",
+	"version": "10.2.0",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -18,15 +18,19 @@
 	"author": "Brian Takita",
 	"main": "./dist/index.js",
 	"module": "./dist/index.js",
-	"types": "./types/index.d.ts",
+	"types": "./dist/index.d.ts",
 	"scripts": {
-		"build": "npm run compile",
+		"build": "npm run clean && npm run compile && npm run symlink",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b .",
+		"symlink": "./node_modules/.bin/symlink_src_assets_to_dist .",
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^20.4.2",
-		"@ctx-core/function": "workspace:^17.10.1",
-		"@ctx-core/html": "workspace:^8.2.1"
+		"@ctx-core/array": "workspace:^20.5.0",
+		"@ctx-core/ctx-core-package-tools": "workspace:^6.4.0",
+		"@ctx-core/function": "workspace:^17.11.0",
+		"@ctx-core/html": "workspace:^8.3.0"
 	},
 	"devDependencies": {
 		"typescript": "^4.2.4"
