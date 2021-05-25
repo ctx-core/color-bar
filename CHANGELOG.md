@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 10.2.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.2.0
 
 ### Minor Changes
