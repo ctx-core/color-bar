@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 10.2.2
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/function@17.11.1
+  - @ctx-core/html@8.3.1
+  - @ctx-core/ctx-core-package-tools@6.4.2
+
 ## 10.2.1
 
 ### Patch Changes
