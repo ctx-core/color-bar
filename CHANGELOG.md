@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 10.2.3
+
+### Patch Changes
+
+- fix: npm run build
+
 ## 10.2.2
 
 ### Patch Changes
