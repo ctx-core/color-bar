@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 11.0.2
+
+### Patch Changes
+
+- - tsconfig.tsbuildinfo
+
 ## 11.0.1
 
 ### Patch Changes
