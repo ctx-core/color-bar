@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "workspace:^21.1.0",
-		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.4",
+		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.5",
 		"@ctx-core/function": "workspace:^18.1.0",
 		"@ctx-core/html": "workspace:^9.0.0"
 	},
