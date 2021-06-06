@@ -1,5 +1,16 @@
 # @ctx-core/color-bar
 
+## 11.0.13
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.6
+  - @ctx-core/function@18.1.2
+  - @ctx-core/html@9.0.3
+  - @ctx-core/ctx-core-package-tools@7.0.13
+
 ## 11.0.12
 
 ### Patch Changes
