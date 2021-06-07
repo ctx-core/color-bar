@@ -1,5 +1,16 @@
 # @ctx-core/color-bar
 
+## 11.0.14
+
+### Patch Changes
+
+- version bump: run build
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.7
+  - @ctx-core/function@18.1.3
+  - @ctx-core/html@9.0.4
+  - @ctx-core/ctx-core-package-tools@7.0.14
+
 ## 11.0.13
 
 ### Patch Changes
