@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 13.0.1
+
+### Patch Changes
+
+- remove npm run symlink
+
 ## 13.0.0
 
 ### Major Changes
