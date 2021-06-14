@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 12.0.0
+
+### Major Changes
+
+- Color\_\_Bar->ColorBar
+
 ## 11.0.20
 
 ### Patch Changes

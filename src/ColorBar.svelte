@@ -1,45 +1,43 @@
-<script>
+<script lang="ts">
 import { createEventDispatcher } from 'svelte'
-import { andand } from '@ctx-core/function'
 import { a_present_ } from '@ctx-core/array'
 import { style_ } from '@ctx-core/html'
 const dispatch = createEventDispatcher()
-export let label_a
-export let representation_a
-export let title_a
-export let value_a
-export let weight_a
-export let class_a
-export let compressor_a = []
-function li_style_(weight) {
+export let label_a:string[]
+export let representation_a:any[]
+export let title_a:string[]
+export let value_a:any[]
+export let weight_a:number[]
+export let class_a:string[]
+function li_style_(weight:number):string {
 	return style_({
 		'-webkit-box-flex': weight,
 		flex: weight
 	})
 }
-function __click(event, idx) {
+function onclick(event:Event, idx:number) {
 	dispatch('click', {
 		event,
 		idx,
-		label: label_a && label_a[idx],
-		representation: representation_a && representation_a[idx],
-		title: title_a && title_a[idx],
-		value: value_a && value_a[idx],
-		weight: weight_a && weight_a[idx],
+		label: label_a?.[idx],
+		representation: representation_a?.[idx],
+		title: title_a?.[idx],
+		value: value_a?.[idx],
+		weight: weight_a?.[idx],
 	})
 }
 </script>
 
-<div class="Color__Bar {$$props.class||''}">
+<div class="ColorBar {$$props.class||''}">
 	<ul class="data">
-		{#each title_a||[] as title,idx}
+		{#each title_a || [] as title,idx}
 			<li
-				class="{class_a[andand(value_a, idx) || 0]}"
+				class="{class_a[value_a?.[idx] || 0]}"
 				title="{title || ''}"
-				style="{li_style_(andand(weight_a, idx))}"
-				on:click="{event => __click(event, idx)}"
+				style="{li_style_(weight_a?.[idx])}"
+				on:click="{event => onclick(event, idx)}"
 			>
-				{andand(representation_a, idx)}
+				{representation_a?.[idx]}
 			</li>
 		{/each}
 	</ul>
@@ -47,21 +45,21 @@ function __click(event, idx) {
 		class="labels"
 		class:present="{a_present_(label_a)}"
 	>
-		{#each title_a||[] as title,idx}
+		{#each title_a || [] as title,idx}
 			<li
 				class="label"
 				title="{title || ''}"
-				style="{li_style_(andand(weight_a, idx))}"
-				on:click="{event => __click(event, idx)}"
+				style="{li_style_(weight_a?.[idx])}"
+				on:click="{event => onclick(event, idx)}"
 			>
-				{andand(label_a, idx)}
+				{label_a?.[idx]}
 			</li>
 		{/each}
 	</ul>
 </div>
 
 <style type="text/scss">
-:global(.Color__Bar) {
+:global(.ColorBar) {
 	box-sizing: border-box;
 	display: block;
 	:global(*) {
