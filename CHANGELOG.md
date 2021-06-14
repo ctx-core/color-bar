@@ -1,5 +1,18 @@
 # @ctx-core/color-bar
 
+## 13.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.0
+  - @ctx-core/html@10.0.0
+  - @ctx-core/ctx-core-package-tools@8.0.0
+
 ## 12.0.0
 
 ### Major Changes

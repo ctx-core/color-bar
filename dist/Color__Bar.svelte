@@ -1,1 +1,0 @@
-../src/Color__Bar.svelte
