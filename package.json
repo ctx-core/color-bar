@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "13.0.3",
+	"version": "13.0.4",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -26,12 +26,12 @@
 		"exec": "$@"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^22.0.2",
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.2",
-		"@ctx-core/html": "workspace:^10.0.0"
+		"@ctx-core/array": "workspace:^22.0.3",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.3",
+		"@ctx-core/html": "workspace:^10.0.1"
 	},
 	"devDependencies": {
-		"typescript": "^4.3.2"
+		"typescript": "^4.3.3"
 	},
 	"publishConfig": {
 		"access": "public",
