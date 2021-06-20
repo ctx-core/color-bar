@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 13.0.8
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.8
+  - @ctx-core/html@10.0.6
+  - @ctx-core/ctx-core-package-tools@8.0.7
+
 ## 13.0.7
 
 ### Patch Changes
