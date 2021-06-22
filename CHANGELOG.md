@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 13.0.9
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.9
+  - @ctx-core/html@10.0.7
+  - @ctx-core/ctx-core-package-tools@8.0.8
+
 ## 13.0.8
 
 ### Patch Changes
