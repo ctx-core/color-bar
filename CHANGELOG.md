@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 13.0.13
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.16
+  - @ctx-core/html@10.0.13
+  - @ctx-core/ctx-core-package-tools@8.0.12
+
 ## 13.0.12
 
 ### Patch Changes
