@@ -28,7 +28,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^22.2.0",
+		"@ctx-core/array": "workspace:^22.3.0",
 		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.22",
 		"@ctx-core/html": "workspace:^10.2.5",
 		"svelte": "^3.38.3"
