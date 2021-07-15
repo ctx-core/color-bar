@@ -1,5 +1,18 @@
 # @ctx-core/color-bar
 
+## 14.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.0
+  - @ctx-core/html@11.0.0
+  - @ctx-core/ctx-core-package-tools@8.0.25
+
 ## 13.0.28
 
 ### Patch Changes
