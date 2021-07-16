@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 14.0.9
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.9
+  - @ctx-core/html@11.0.9
+  - @ctx-core/ctx-core-package-tools@8.0.32
+
 ## 14.0.8
 
 ### Patch Changes
