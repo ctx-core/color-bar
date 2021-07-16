@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 14.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.3
+  - @ctx-core/html@11.0.4
+  - @ctx-core/ctx-core-package-tools@8.0.28
+
 ## 14.0.2
 
 ### Patch Changes
