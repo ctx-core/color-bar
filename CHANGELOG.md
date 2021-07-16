@@ -1,5 +1,35 @@
 # @ctx-core/color-bar
 
+## 14.0.6
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.6
+  - @ctx-core/html@11.0.6
+  - @ctx-core/ctx-core-package-tools@8.0.29
+
+## 14.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.5
+  - @ctx-core/html@11.0.5
+  - @ctx-core/ctx-core-package-tools@8.0.29
+
+## 14.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.4
+  - @ctx-core/html@11.0.5
+  - @ctx-core/ctx-core-package-tools@8.0.29
+
 ## 14.0.3
 
 ### Patch Changes
