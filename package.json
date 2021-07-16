@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.9",
+	"version": "14.0.10",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "workspace:^23.0.9",
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.32",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.33",
 		"@ctx-core/html": "workspace:^11.0.9",
 		"esm": "^3.2.25",
 		"svelte": "^3.38.3"
