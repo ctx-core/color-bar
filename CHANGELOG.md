@@ -1,5 +1,25 @@
 # @ctx-core/color-bar
 
+## 14.0.13
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.11
+  - @ctx-core/html@11.0.11
+  - @ctx-core/ctx-core-package-tools@8.0.35
+
+## 14.0.12
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.10
+  - @ctx-core/html@11.0.10
+  - @ctx-core/ctx-core-package-tools@8.0.34
+
 ## 14.0.11
 
 ### Patch Changes
