@@ -1,5 +1,14 @@
 # @ctx-core/color-bar
 
+## 14.0.15
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.12
+  - @ctx-core/html@11.0.13
+
 ## 14.0.14
 
 ### Patch Changes
