@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 14.0.54
+
+### Patch Changes
+
+- typescript: ^4.4.2 -> ^4.4.3
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.19
+  - @ctx-core/html@11.0.17
+  - @ctx-core/ctx-core-package-tools@8.0.69
+
 ## 14.0.53
 
 ### Patch Changes
