@@ -37,7 +37,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.20",
+		"@ctx-core/array": "workspace:^23.0.21",
 		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.69",
 		"@ctx-core/html": "workspace:^11.0.17",
 		"esm": "^3.2.25",
