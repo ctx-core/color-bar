@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 14.0.60
+
+### Patch Changes
+
+- update dependencies
+
 ## 14.0.59
 
 ### Patch Changes
