@@ -1,3 +1,2 @@
 import 'svelte'
-import ColorBar from './ColorBar.svelte'
-export { ColorBar }
+export * as ColorBar from './ColorBar.svelte'
