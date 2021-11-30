@@ -1,5 +1,30 @@
 # @ctx-core/color-bar
 
+## 14.0.70
+
+### Patch Changes
+
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/ctx-core-package-tools@8.0.80
+  - @ctx-core/array@23.0.27
+  - @ctx-core/html@11.0.23
+
+## 14.0.69
+
+### Patch Changes
+
+- svelte: ^3.44.1 -> ^3.44.2
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/ctx-core-package-tools@8.0.79
+  - @ctx-core/array@23.0.26
+  - @ctx-core/html@11.0.22
+
 ## 14.0.68
 
 ### Patch Changes
