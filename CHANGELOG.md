@@ -1,5 +1,16 @@
 # @ctx-core/color-bar
 
+## 14.0.71
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/array@23.0.28
+  - @ctx-core/html@11.0.24
+  - @ctx-core/ctx-core-package-tools@8.0.81
+
 ## 14.0.70
 
 ### Patch Changes
