@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.73",
+	"version": "14.0.74",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -35,9 +35,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.30",
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.81",
-		"@ctx-core/html": "workspace:^11.0.26",
+		"@ctx-core/array": "workspace:^23.0.31",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.83",
+		"@ctx-core/html": "workspace:^11.0.27",
 		"svelte": "^3.44.2"
 	},
 	"devDependencies": {
