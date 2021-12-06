@@ -1,5 +1,14 @@
 # @ctx-core/color-bar
 
+## 14.0.75
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+- Updated dependencies
+  - @ctx-core/array@23.0.32
+  - @ctx-core/html@11.0.28
+
 ## 14.0.74
 
 ### Patch Changes
