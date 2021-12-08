@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.75",
+	"version": "14.0.76",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -21,7 +21,6 @@
 	"types": "./src/index.ts",
 	"exports": {
 		".": {
-			"require": "./dist/index.cjs",
 			"import": "./dist/index.js"
 		},
 		"./package.json": "./package.json"
@@ -35,7 +34,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "workspace:^23.0.32",
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.83",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.85",
 		"@ctx-core/html": "workspace:^11.0.28",
 		"svelte": "^3.44.2"
 	},
