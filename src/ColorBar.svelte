@@ -58,7 +58,7 @@ function onclick(event:Event, idx:number) {
 	</ul>
 </div>
 
-<style type="text/scss">
+<style lang="scss">
 :global(.ColorBar) {
 	box-sizing: border-box;
 	display: block;
