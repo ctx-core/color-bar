@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.77",
+	"version": "14.0.78",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -32,9 +32,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.33",
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.87",
-		"@ctx-core/html": "workspace:^11.0.29"
+		"@ctx-core/array": "workspace:^23.0.34",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.88",
+		"@ctx-core/html": "workspace:^11.0.30"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
@@ -51,5 +51,6 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"svelte": "./dist/index.js"
 }

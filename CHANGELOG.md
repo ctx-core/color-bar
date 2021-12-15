@@ -1,5 +1,16 @@
 # @ctx-core/color-bar
 
+## 14.0.78
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/ctx-core-package-tools@8.0.88
+  - @ctx-core/array@23.0.34
+  - @ctx-core/html@11.0.30
+
 ## 14.0.77
 
 ### Patch Changes
