@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 14.0.85
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+- Updated dependencies
+  - @ctx-core/array@23.0.41
+  - @ctx-core/html@11.0.37
+  - @ctx-core/ctx-core-package-tools@8.0.95
+
 ## 14.0.84
 
 ### Patch Changes

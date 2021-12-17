@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.84",
+	"version": "14.0.85",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.ts",
+	"types": "./dist/index.d.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
@@ -35,9 +35,9 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.0.40",
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.94",
-		"@ctx-core/html": "workspace:^11.0.36"
+		"@ctx-core/array": "workspace:^23.0.41",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.95",
+		"@ctx-core/html": "workspace:^11.0.37"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
