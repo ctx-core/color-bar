@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 14.0.83
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/array@23.0.39
+  - @ctx-core/html@11.0.35
+  - @ctx-core/ctx-core-package-tools@8.0.93
+
 ## 14.0.82
 
 ### Patch Changes
