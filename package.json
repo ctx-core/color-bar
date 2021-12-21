@@ -36,7 +36,6 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "workspace:^23.0.41",
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.97",
 		"@ctx-core/html": "workspace:^11.0.37"
 	},
 	"devDependencies": {
