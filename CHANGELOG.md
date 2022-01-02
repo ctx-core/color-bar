@@ -1,5 +1,13 @@
 # @ctx-core/color-bar
 
+## 14.0.86
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/html@11.0.38
+
 ## 14.0.85
 
 ### Patch Changes
