@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.86",
+	"version": "14.0.87",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -35,8 +35,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.1.1",
-		"@ctx-core/html": "workspace:^11.0.38"
+		"@ctx-core/array": "workspace:^23.1.2",
+		"@ctx-core/html": "workspace:^11.0.39"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
