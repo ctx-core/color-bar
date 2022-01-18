@@ -32,9 +32,9 @@ function onclick(event:Event, idx:number) {
 	<ul class="data">
 		{#each title_a || [] as title,idx}
 			<li
-				class="{class_a[value_a?.[idx] || 0]}"
-				title="{title || ''}"
-				style="{li_style_(weight_a?.[idx])}"
+				class={class_a[value_a?.[idx] || 0]}
+				title={title || ''}
+				style={li_style_(weight_a?.[idx])}
 				on:click="{event => onclick(event, idx)}"
 			>
 				{representation_a?.[idx]}
@@ -48,9 +48,9 @@ function onclick(event:Event, idx:number) {
 		{#each title_a || [] as title,idx}
 			<li
 				class="label"
-				title="{title || ''}"
-				style="{li_style_(weight_a?.[idx])}"
-				on:click="{event => onclick(event, idx)}"
+				title={title || ''}
+				style={li_style_(weight_a?.[idx])}
+				on:click={event => onclick(event, idx)}
 			>
 				{label_a?.[idx]}
 			</li>
