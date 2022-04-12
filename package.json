@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.94",
+	"version": "14.0.95",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -19,9 +19,7 @@
 	"type": "module",
 	"types": "./lib/index.d.ts",
 	"exports": {
-		".": {
-			"import": "./lib/index.js"
-		},
+		".": "./lib/index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -35,8 +33,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "*",
-		"@ctx-core/html": "^11.0.43"
+		"@ctx-core/array": "workspace:*",
+		"@ctx-core/html": "workspace:^11.0.44"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
