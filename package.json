@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.110",
+	"version": "14.0.111",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.6.0",
+		"@ctx-core/array": "^26.7.1",
 		"@ctx-core/html": "^11.0.50"
 	},
 	"devDependencies": {
