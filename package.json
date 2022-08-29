@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.111",
+	"version": "14.0.112",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.7.6",
+		"@ctx-core/array": "^26.7.7",
 		"@ctx-core/html": "^11.0.50"
 	},
 	"devDependencies": {
@@ -44,7 +44,7 @@
 		"rimraf": "^3.0.2",
 		"svelte": "^3.49.0",
 		"svelte-preprocess": "^4.10.7",
-		"svelte2tsx": "^0.5.14",
+		"svelte2tsx": "^0.5.15",
 		"tslib": "^2.4.0",
 		"typescript": "next"
 	},
