@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.7.8",
+		"@ctx-core/array": "^26.8.0",
 		"@ctx-core/html": "^11.0.50"
 	},
 	"devDependencies": {
