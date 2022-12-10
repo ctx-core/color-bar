@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 14.0.126
+
+### Patch Changes
+
+- svelte-preprocess: ^4.10.7 -> ^5.0.0
+
 ## 14.0.125
 
 ### Patch Changes
