@@ -1,5 +1,13 @@
 # @ctx-core/color-bar
 
+## 14.0.141
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+- Updated dependencies
+  - @ctx-core/html@11.0.61
+
 ## 14.0.140
 
 ### Patch Changes
