@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 14.0.146
+
+### Patch Changes
+
+- tslib: ^2.4.1 -> ^2.5.0
+
 ## 14.0.145
 
 ### Patch Changes
