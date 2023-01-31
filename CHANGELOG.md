@@ -1,5 +1,14 @@
 # @ctx-core/color-bar
 
+## 14.0.147
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/array@26.8.13
+  - @ctx-core/html@11.0.65
+
 ## 14.0.146
 
 ### Patch Changes
