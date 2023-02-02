@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.0.150",
+	"version": "14.0.151",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -44,7 +44,7 @@
 		"rimraf": "^4.1.2",
 		"svelte": "^3.55.1",
 		"svelte-preprocess": "^5.0.1",
-		"svelte2tsx": "^0.6.0",
+		"svelte2tsx": "^0.6.1",
 		"tslib": "^2.5.0",
 		"typescript": "next"
 	},

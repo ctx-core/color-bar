@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 14.0.151
+
+### Patch Changes
+
+- svelte2tsx: ^0.6.0 -> ^0.6.1
+
 ## 14.0.150
 
 ### Patch Changes
