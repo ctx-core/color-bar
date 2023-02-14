@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 14.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 14.0.156
 
 ### Patch Changes
