@@ -1,5 +1,12 @@
 # @ctx-core/color-bar
 
+## 14.1.14
+
+### Patch Changes
+
+- @ctx-core/array: ^26.11.9 -> ^26.11.10
+- @ctx-core/html: ^11.1.9 -> ^11.1.10
+
 ## 14.1.13
 
 ### Patch Changes
