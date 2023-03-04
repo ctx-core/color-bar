@@ -1,5 +1,13 @@
 # @ctx-core/color-bar
 
+## 14.1.18
+
+### Patch Changes
+
+- @ctx-core/array: ^26.11.14 -> ^26.11.15
+- Updated dependencies
+  - @ctx-core/html@11.1.14
+
 ## 14.1.17
 
 ### Patch Changes
