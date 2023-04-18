@@ -34,7 +34,8 @@
 	},
 	"dependencies": {
 		"@ctx-core/array": "^26.12.26",
-		"@ctx-core/html": "^11.2.24"
+		"@ctx-core/html": "^11.2.24",
+		"svelte": "^3.58.0"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
