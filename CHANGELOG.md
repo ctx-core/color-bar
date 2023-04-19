@@ -1,5 +1,14 @@
 # @ctx-core/color-bar
 
+## 14.1.57
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/array@26.12.32
+  - @ctx-core/html@11.2.30
+
 ## 14.1.56
 
 ### Patch Changes
