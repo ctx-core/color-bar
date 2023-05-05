@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.1.60",
+	"version": "14.1.61",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	"dependencies": {
 		"@ctx-core/array": "^26.12.34",
 		"@ctx-core/html": "^11.3.2",
-		"svelte": "^3.58.0"
+		"svelte": "^3.59.0"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
