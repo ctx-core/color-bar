@@ -1,5 +1,5 @@
-import { SvelteComponentTyped } from 'svelte'
-export class ColorBar extends SvelteComponentTyped<{
+import { SvelteComponent } from 'svelte'
+export class ColorBar extends SvelteComponent<{
 	label_a:string[]
 	representation_a:any[]
 	title_a:string[]
