@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.2.2",
+	"version": "14.2.3",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./ColorBar"
 	],
@@ -37,8 +38,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^27.0.2",
-		"@ctx-core/html": "^11.6.2",
+		"@ctx-core/array": "^27.0.3",
+		"@ctx-core/html": "^11.6.3",
 		"svelte": "^4.2.3"
 	},
 	"devDependencies": {
