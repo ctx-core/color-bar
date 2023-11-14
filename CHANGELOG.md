@@ -1,5 +1,14 @@
 # @ctx-core/color-bar
 
+## 14.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/array@27.0.2
+  - @ctx-core/html@11.6.2
+
 ## 14.2.1
 
 ### Patch Changes
