@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/color-bar",
-	"version": "14.2.21",
+	"version": "14.2.22",
 	"description": "ctx-core color-bar",
 	"keywords": [
 		"ctx-core",
@@ -38,8 +38,8 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^27.0.20",
-		"@ctx-core/html": "^11.6.19",
+		"@ctx-core/array": "^27.0.21",
+		"@ctx-core/html": "^11.6.20",
 		"svelte": "^4.2.7"
 	},
 	"devDependencies": {
