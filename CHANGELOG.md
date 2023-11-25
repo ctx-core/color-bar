@@ -1,5 +1,15 @@
 # @ctx-core/color-bar
 
+## 14.2.27
+
+### Patch Changes
+
+- tsx: ^4.4.0 -> ^4.5.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/array@27.0.26
+  - @ctx-core/html@11.6.25
+
 ## 14.2.26
 
 ### Patch Changes
