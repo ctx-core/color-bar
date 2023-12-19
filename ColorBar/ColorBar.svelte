@@ -1,7 +1,6 @@
 <script lang="ts">
+import { html_style_ } from 'ctx-core/html'
 import { createEventDispatcher } from 'svelte'
-import { a_present_ } from '@ctx-core/array'
-import { style_ } from '@ctx-core/html'
 const dispatch = createEventDispatcher()
 export let label_a:string[]
 export let representation_a:any[]
@@ -10,7 +9,7 @@ export let value_a:any[]
 export let weight_a:number[]
 export let class_a:string[]
 function li_style_(weight:number):string {
-	return style_({
+	return html_style_({
 		'-webkit-box-flex': weight,
 		flex: weight
 	})
@@ -43,7 +42,7 @@ function onclick(event:Event, idx:number) {
 	</ul>
 	<ul
 		class="labels"
-		class:present="{a_present_(label_a)}"
+		class:present="{!!label_a.length}"
 	>
 		{#each title_a || [] as title,idx}
 			<li
