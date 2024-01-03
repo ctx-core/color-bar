@@ -1,5 +1,11 @@
 # @ctx-core/color-bar
 
+## 14.2.79
+
+### Patch Changes
+
+- ctx-core: ^5.11.0 -> ^5.12.0
+
 ## 14.2.78
 
 ### Patch Changes
