@@ -1,5 +1,13 @@
 # @ctx-core/color-bar
 
+## 14.2.164
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 14.2.163
 
 ### Patch Changes
