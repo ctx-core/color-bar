@@ -1,5 +1,13 @@
 # @ctx-core/color-bar
 
+## 14.2.194
+
+### Patch Changes
+
+- svelte: ^4.2.16 -> ^4.2.17
+- Updated dependencies
+  - ctx-core@7.2.8
+
 ## 14.2.193
 
 ### Patch Changes
